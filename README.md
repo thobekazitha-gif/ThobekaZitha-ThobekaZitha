@@ -53,7 +53,7 @@ Interactive chatbot built to simulate user communication and improve engagement 
  
 ### 💌 Connect With Me  
 <p align="center">
-<a href="(https://linkedin.com/in/thobekazitha)">
+<a href="https://linkedin.com/in/thobekazitha">
 <img src="https://img.shields.io/badge/LinkedIn-%23B694C0.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:thobekazitha40@gmail.com">
