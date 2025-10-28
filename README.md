@@ -38,7 +38,7 @@ Interactive chatbot built to simulate user communication and improve engagement 
  
 ### ⚙️ Tech Stack  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,flask,figma,bubble,canva,vscode,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,flask,figma,canva,vscode,github" />
 </p>
  
 ---
