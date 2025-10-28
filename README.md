@@ -20,7 +20,7 @@ Through my journey in the **Tech Career Accelerator Bootcamp**, I’ve built pro
 Includes **custom website design**, **WhatsApp Business setup**, and **social media branding**.  
 🖌️ *Elegant layouts, beige-inspired palettes, and responsive UI across devices.*
  
-#### 🍽️ [Restaurant Digital Package](https://grid-and-grill-r9prxts.gamma.site/)
+#### 🍽️ [Grid & Grill Restaurant Demo](https://grid-and-grill-r9prxts.gamma.site/)
 🍷 Sleek restaurant demo website showcasing menu highlights, table booking flow, and immersive visuals.  
 Focused on clean design and effortless customer experience.  
  
