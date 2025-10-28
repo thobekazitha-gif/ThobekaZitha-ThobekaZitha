@@ -59,7 +59,7 @@ Interactive chatbot built to simulate user communication and improve engagement 
 <a href="mailto:thobekazitha40@gmail.com">
 <img src="https://img.shields.io/badge/Email-%23E5C7D6.svg?style=for-the-badge&logo=gmail&logoColor=8C489F"/>
 </a>
-<a href="https://c0qai4ygity3.trickle.host">
+<a href="[https://c0qai4ygity3.trickle.host](https://gamma.app/docs/Hi-Im-Thobeka-Zitha-Software-Engineering-Enthusiast-wm0lp569rsnainm?mode=doc)">
 <img src="https://img.shields.io/badge/Portfolio-%23F3E6DA.svg?style=for-the-badge&logo=google-chrome&logoColor=8C489F"/>
 </a>
 </p>
